@@ -4,14 +4,25 @@ im really looking forward to become a better front-end developer!
 
 front-end dev wasnt something i planed on studying at first, i have a trade certificate as a truck mechanic, worked as an heavyduty mechaning for almost 5 years, before i was in a car accident.
 after that i had to restructure, because i couldnt do my current job, so here we are! front-end dev here we come!
-
+_ _ _
+# currently working with
+<img src="https://simpleicons.org/icons/html.svg" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/javascript.svg" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/.svg" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/javascript.svg" width="40" height="40"/>
 
 
 - 👋 Hi, I’m Sigurd Vaaler
 - 👀 I’m interested in icehockey, Ufc and formula1
-- 🌱 I’m currently learning javascript
+- 🔭 I’m currently working on my Portifolio
+- 
 - 📫 How to reach me sigurdvaaler@gmailcom
 - ⚡ Fun fact: really clumsy
+
+
+#contact me
+<img src="https://simpleicons.org/icons/discord.svg" width="40" height="40"/>
+
  _ _ _
 <!---
 Voidwaker/Voidwaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
