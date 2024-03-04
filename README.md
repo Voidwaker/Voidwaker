@@ -12,7 +12,6 @@ _ _ _
 - 👋 Hi, I’m Sigurd Vaaler
 - 👀 I’m interested in icehockey, Ufc and formula1
 - 🔭 I’m currently working on my Portifolio
-- 
 - 📫 How to reach me sigurdvaaler@gmailcom
 - ⚡ Fun fact: really clumsy
 _ _ _
