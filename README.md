@@ -17,7 +17,7 @@ _ _ _
 
 contact me:
 
-you could send me an email or dm me on diuscord or twitter:
+you could send me an email or dm me on discord or twitter:
 
 Email me: sigurdvaaler@hotmial.com
 
