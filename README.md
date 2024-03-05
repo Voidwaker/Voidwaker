@@ -1,4 +1,4 @@
-introduction
+
 My name is  sigurd, currently a student at noroff, i dedicate most of my time to ether write some code, watch sports or play videogames, mostly ufc, icehockey and formula1. when it comes to gaming, i usualy play league of legends(currently p3 draven otp) 
 im really looking forward to become a better front-end developer! 
 
