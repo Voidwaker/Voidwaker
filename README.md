@@ -16,7 +16,8 @@ _ _ _
 - ⚡ Fun fact: really clumsy
 _ _ _
 
-#contact me
+contact me:
+
 you could send me an email or dm me on diuscord or twitter:
 
 Email me: sigurdvaaler@hotmial.com
