@@ -12,7 +12,7 @@ _ _ _
 - 👀 I’m interested in icehockey, Ufc and formula1
 - 🔭 I’m currently working on my Portifolio
 - 📫 How to reach me sigurdvaaler@gmailcom
-- ⚡ Fun fact: really clumsy
+- ⚡ Fun fact: i like to listen to uptempo/hardstyle
 _ _ _
 
 contact me:
