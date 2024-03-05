@@ -18,8 +18,11 @@ _ _ _
 
 #contact me
 you could send me an email or dm me on diuscord or twitter:
+
 Email me: sigurdvaaler@hotmial.com
+
 discord: voidwaker1
+
 twitter :https://twitter.com/situasjon
 
  _ _ _
