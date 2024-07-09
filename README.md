@@ -23,8 +23,6 @@ Email me: sigurdvaaler@hotmial.com
 
 discord: voidwaker1
 
-twitter :https://twitter.com/situasjon
-
  _ _ _
 <!---
 Voidwaker/Voidwaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
