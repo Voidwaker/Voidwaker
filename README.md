@@ -1,5 +1,5 @@
 
-My name is  sigurd, currently a student at noroff, i dedicate most of my time to ether write some code, watch sports or play videogames, mostly ufc, icehockey and formula1. when it comes to gaming, i usualy play league of legends(currently p3 draven otp) 
+My name is  sigurd, currently a student at noroff, i dedicate most of my time to ether write some code, watch sports or play videogames, icehockey and formula1. when it comes to gaming,
 im really looking forward to become a better front-end developer! 
 
 front-end dev wasnt something i planed on studying at first. I have a trade certificate as a truck mechanic, worked as an heavyduty mechanic for almost 5 years, before i was in a car accident.
@@ -9,9 +9,9 @@ after that i had to restructure, because i couldnt do my current job, so here we
 _ _ _
 
 - 👋 Hi, I’m Sigurd Vaaler
-- 👀 I’m interested in icehockey, Ufc and formula1
-- 🔭 I’m currently working on my Portifolio
-- 📫 How to reach me sigurdvaaler@gmailcom
+- 👀 I’m interested in icehockey and formula1
+- 🔭 I’m currently learning JavaScript
+- 📫 How to reach me sigurdvaaler@Hotmail.com
 - ⚡ Fun fact: i like to listen to uptempo/hardstyle
 _ _ _
 
