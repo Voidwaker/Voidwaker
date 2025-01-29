@@ -30,9 +30,6 @@ Feel free to reach out if you want to chat or collaborate!
 
 ---
 
-### 🌟 Fun Extras
-I’m always looking to improve and learn more about front-end development, and I hope to become a better developer every day!
-
 <!---
 Voidwaker/Voidwaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
