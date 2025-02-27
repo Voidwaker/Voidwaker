@@ -17,7 +17,7 @@ Front-end development wasn’t what I originally planned on studying. I have a t
 
 ### 💡 Skills and Interests
 - 🎮 I'm passionate about **video games**, especially **ice hockey** and **Formula 1**.
-- 🔭 I’m currently focusing on improving my **JavaScript** skills.
+- 🔭 I’m currently focusing on improving my **react** and **Javascript** skills.
 - ⚡ Fun fact: I enjoy listening to **uptempo/hardstyle** music.
 
 ---
