@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Sigurd Vaaler
 
 ### 👨‍💻 About Me
-I'm currently a student at Noroff, where I dedicate most of my time to coding, watching sports, and playing video games. My interests lie in **ice hockey**, **Formula 1**, and improving my skills as a **front-end developer**.
+I'm a proud graduate from Noroff, where I dedicated countless hours to mastering code, keeping up with sports, and enjoying video games. My passions include **ice hockey**, **Formula 1**, and continually advancing my skills as a **front-end developer**.
 
-Front-end development wasn’t what I originally planned on studying. I have a trade certificate as a truck mechanic and worked as a **heavyduty mechanic** for almost 5 years. After being in a car accident, I had to reconsider my career, and that's how I found my passion for front-end development. Now, I'm excited about where this journey is taking me!
+Front-end development wasn’t my original path—I started out as a truck mechanic with a trade certificate and spent nearly 5 years as a **heavyduty mechanic**. After a life-changing car accident made me rethink my career, I discovered my passion for front-end development. Now, I'm eager to see where this journey takes me next!
 
 ---
 
