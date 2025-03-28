@@ -3,7 +3,7 @@
 ### 👨‍💻 About Me
 I'm a proud graduate from Noroff, where I dedicated countless hours to mastering code, keeping up with sports, and enjoying video games. My passions include **ice hockey**, **Formula 1**, and continually advancing my skills as a **front-end developer**.
 
-Front-end development wasn’t my original path—I started out as a truck mechanic with a trade certificate and spent nearly 5 years as a **heavyduty mechanic**. After a life-changing car accident made me rethink my career, I discovered my passion for front-end development. Now, I'm eager to see where this journey takes me next!
+Front-end development wasn’t my original path—I started out as a truck mechanic with a trade certificate and spent nearly 5 years as a **heavyduty mechanic**. After a life-changing car accident made me rethink my career, I discovered my passion for front-end development. Now, I'm eager to see where this journey takes me next!!
 
 ---
 
