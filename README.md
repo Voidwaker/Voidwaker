@@ -19,7 +19,7 @@ Front-end development wasn’t my original path—I started out as a truck mecha
 - 🎮 I'm passionate about **video games**, especially **ice hockey** and **Formula 1**.
 - 🔭 I’m currently focusing on improving my **react** and **Javascript** skills.
 - ⚡ Fun fact: I enjoy listening to **uptempo/hardstyle** music.
-- ⚡ Fun fact: I have 8 chickines
+- ⚡ Fun fact: I have 8 chickines!
 
 ---
 
